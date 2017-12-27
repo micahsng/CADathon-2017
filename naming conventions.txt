@@ -1,0 +1,7 @@
+example: 2AM-17-A-0100 - Drive Train
+2AM = team name
+17 = last 2 digits of year
+A or P = assembly or part
+01 = what assembly its part of (00 is always final robot)
+00 = part number (00 is for the assembly)
+- Drive Train = name or description
